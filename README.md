@@ -34,17 +34,60 @@ Skills Shown:
 	•	Invalid ACK packet detection
 	•	Parsed Suricata alerts inside Wazuh using jq and JSON decoders
 
-Write-up: (Adding soon)
+📁 Folder: Suricata_IDS+Wazuh_SIEM/
 
-###
+### 2️⃣ Microsoft Sentinel SOC Lab
+	•	Built Sentinel workspace from scratch
+	•	Connected data sources (Linux, Azure AD, MDE)
+	•	Created custom Analytics Rules
+	•	Built Hunting Queries (KQL)
+	•	Automated incident assignments & enrichment (SOAR)
+	•	Built dashboards and workbooks
 
-###
+📁 Folder: Microsoft-Sentinel/
 
-###
+### 3️⃣ Defender for Endpoint Lab
+	•	Analyzed MDE alerts
+	•	Mapped attacks to MITRE ATT&CK
+	•	Performed device isolation & Live Response
+	•	Investigated phishing simulations
+	•	Collected evidence for timeline reconstruction
 
-###
+📁 Folder: Defender-for-Endpoint-Lab/
+
+### 4️⃣ Defender for Cloud Lab
+	•	Interpreted Secure Score
+	•	Analyzed compliance frameworks (CIS, NIST, ISO)
+	•	Simulated misconfigurations and investigated alerts
+	•	Built remediation pipelines
+
+📁 Folder: Defender-for-Cloud/
+
+### 5️⃣ KQL Threat Hunting Collection
+	•	Common SOC KQL queries
+	•	Hunting logic mapped to MITRE ATT&CK
+	•	Custom queries for:
+	•	Brute force attempts
+	•	Token misuse
+	•	Rare process executions
+	•	Suspicious network communication
+
+📁 Folder: KQL-Practice/
 
 
-## 🔗 Connect
+## 🎯 Current Certification Path
+	•	✔ Security+ (Passed)
+	•	✔ ISC2 Certified in Cybersecurity
+	•	⏳ SC-200: Microsoft Security Operations Analyst
+
+
+
+## 🔗 Connect With Me
+
+📧 dev.yusuf.usman@gmail.com
+
+🌍 London, UK
+
+🔗 
 - [LinkedIn Profile](https://www.linkedin.com/in/yusuf-adetunji-usman/)
 - [GitHub Profile](https://github.com/Y-usman)
