@@ -1,51 +1,50 @@
-# SOC-Labs-and-Projects
-Hands-on SOC Analyst Projects — Microsoft Sentinel, KQL, Defender, Threat Hunting, MITRE ATT&amp;CK
+# 🛡️ SOC Labs & Blue Team Projects
+
+By Yusuf Usman — Cybersecurity Analyst (Blue Team)
+
+Hands-on SOC operations • Detection engineering • Threat hunting
 
 ## 👨‍💻 About
 
-Aspiring **SOC Analyst** with hands-on projects in:  
-✅ **Microsoft Sentinel**  
-✅ **KQL (Kusto Query Language)**  
-✅ **Microsoft Defender for Endpoint**  
-✅ **Microsoft Defender for Cloud**  
-✅ **MITRE ATT&CK**  
-✅ **Incident Response Workflows**
+This repository contains my end-to-end SOC Analyst portfolio, built from real-world defensive security labs.
+Each project replicates enterprise environments using Microsoft Sentinel, Wazuh, Suricata, Defender, KQL, MITRE ATT&CK, and SIEM engineering.
 
-**Currently preparing for:**  
-✅ SC-200 Microsoft Security Operations Analyst (Exam date: 21st June, 2025)  
-✅ CompTIA Security+ (Target: July, 2025)  
-✅ CompTIA Cybersecurity Analyst (Target: August, 2025)
+My goal is to demonstrate practical Blue Team capability — not theory.
 
-## 🚀 Labs & Projects
+This repo includes:
+	•	Full SOC home lab builds
+	•	Network + endpoint log pipelines
+	•	Custom detections
+	•	MITRE ATT&CK–mapped investigations
+	•	Threat hunting playbooks
+	•	Incident response write-ups
 
-### Microsoft Sentinel
-- Built and configured Sentinel workspace
-- Created **custom Analytics Rules**
-- Developed **Hunting Queries** with KQL
-- Designed **Workbooks & Dashboards**
-- Simulated incidents & triaged alerts
+## Featured Projects (Most Recent)
 
-### KQL Practice
-- Common KQL queries used in SOC investigations
-- MITRE ATT&CK-based hunting queries
-- Custom dashboards for threat monitoring
+### 1️⃣ Suricata IDS + Wazuh SIEM Integration (Live Project)
 
-### Microsoft Defender for Cloud
-- Worked with **Secure Score**
-- Investigated security recommendations
-- Simulated alerts for threat investigation
-- Practiced compliance dashboard reviews (NIST, CIS, ISO)
+Tools: Suricata, Wazuh, Elastic, Azure VM, pfSense
+Skills Shown:
+	•	Deployed Suricata IDS (ET Open ruleset)
+	•	Configured Wazuh Logcollector to ingest /var/log/suricata/eve.json
+	•	Verified alert ingestion with Wazuh rule 86601
+	•	Correlated events with:
+	•	testmyids.com (attack response)
+	•	TLS JA3 fingerprints
+	•	Invalid ACK packet detection
+	•	Parsed Suricata alerts inside Wazuh using jq and JSON decoders
 
-### Microsoft Defender for Endpoint (via Official Lab)
-- Triage of endpoint alerts
-- Mapping of alerts to **MITRE ATT&CK**
-- Device isolation and Live Response
-- Simulated phishing attack investigations
+Write-up: (Adding soon)
+
+###
+
+###
+
+###
+
+###
+
 
 ## 🔗 Connect
 - [LinkedIn Profile](https://www.linkedin.com/in/yusuf-adetunji-usman/)
 - [GitHub Profile](https://github.com/Y-usman)
-
----
-
-**#SOCAnalyst #MicrosoftSentinel #KQL #DefenderForEndpoint #CyberSecurity #SC200 #SOC #SkilledWorkerVisa**
