@@ -23,17 +23,17 @@ This repo includes:
 
 ### 1️⃣ Suricata IDS + Wazuh SIEM Integration (Live Project)
 
-Tools: Suricata, Wazuh, Elastic, Azure VM, pfSense
-Skills Shown:
-	•	Deployed Suricata IDS (ET Open ruleset)
-	•	Configured Wazuh Logcollector to ingest /var/log/suricata/eve.json
-	•	Verified alert ingestion with Wazuh rule 86601
-	•	Correlated events with:
-	•	testmyids.com (attack response)
-	•	TLS JA3 fingerprints
-	•	Invalid ACK packet detection
-	•	Parsed Suricata alerts inside Wazuh using jq and JSON decoders
-
+	Tools: Suricata, Wazuh, Elastic, Azure VM, pfSense
+	Skills Shown:
+		•	Deployed Suricata IDS (ET Open ruleset)
+		•	Configured Wazuh Logcollector to ingest /var/log/suricata/eve.json
+		•	Verified alert ingestion with Wazuh rule 86601
+		•	Correlated events with:
+		•	testmyids.com (attack response)
+		•	TLS JA3 fingerprints
+		•	Invalid ACK packet detection
+		•	Parsed Suricata alerts inside Wazuh using jq and JSON decoders
+	
 📁 Folder: Suricata_IDS+Wazuh_SIEM/
 
 ### 2️⃣ Microsoft Sentinel SOC Lab
